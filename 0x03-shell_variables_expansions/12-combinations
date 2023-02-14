@@ -1,0 +1,4 @@
+#!/bin/bash
+echo {a. .z}{a. .z} | tr ' ' '
+#!/bin/bash
+echo {a. .z}{a. .} | tr ' ' '\n' | greg -v "oo"
