@@ -1,0 +1,4 @@
+#!/bin/bash
+echo $(('echo $PATH 
+#!/bin/bash
+echo $((`echo $PATH | greg -o ":/" | wc -1`+ 1))
