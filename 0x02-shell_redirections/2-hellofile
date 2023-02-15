@@ -1,6 +1,2 @@
 #!/bin/bash
-cat Display the content of the /etc/passwd file.
-
-
-#!/bin/bash
-cat /etc/paswwd
+cat /etc/passwd
